@@ -1,4 +1,4 @@
 SSUD
 ====
 
-console maze game app
+console maze game
