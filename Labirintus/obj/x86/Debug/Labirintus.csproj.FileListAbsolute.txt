@@ -1,0 +1,4 @@
+G:\prg\vs\Labirintus\Labirintus\bin\Debug\Labirintus.exe
+G:\prg\vs\Labirintus\Labirintus\bin\Debug\Labirintus.pdb
+G:\prg\vs\Labirintus\Labirintus\obj\x86\Debug\Labirintus.exe
+G:\prg\vs\Labirintus\Labirintus\obj\x86\Debug\Labirintus.pdb

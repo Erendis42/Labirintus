@@ -1,0 +1,4 @@
+G:\prg\vs\Labirintus\Labirintus\bin\Release\Labirintus.exe
+G:\prg\vs\Labirintus\Labirintus\bin\Release\Labirintus.pdb
+G:\prg\vs\Labirintus\Labirintus\obj\x86\Release\Labirintus.exe
+G:\prg\vs\Labirintus\Labirintus\obj\x86\Release\Labirintus.pdb
