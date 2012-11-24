@@ -1,7 +1,7 @@
 SSUD
 ====
 
-console maze game
+console maze game written in C#
 
 sorry for Hungarian! this is my first homework @ uni, semester 1
 
