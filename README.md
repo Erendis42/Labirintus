@@ -1,0 +1,4 @@
+SSUD
+====
+
+console maze game
