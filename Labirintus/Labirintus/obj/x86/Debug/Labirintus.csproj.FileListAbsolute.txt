@@ -1,0 +1,13 @@
+G:\prg\vs\Labirintus\Labirintus\bin\Debug\Labirintus.exe
+G:\prg\vs\Labirintus\Labirintus\bin\Debug\Labirintus.pdb
+G:\prg\vs\Labirintus\Labirintus\obj\x86\Debug\Labirintus.exe
+G:\prg\vs\Labirintus\Labirintus\obj\x86\Debug\Labirintus.pdb
+\\vmware-host\Shared Folders\w\Labirintus\Labirintus\bin\Debug\Labirintus.exe
+\\vmware-host\Shared Folders\w\Labirintus\Labirintus\bin\Debug\Labirintus.pdb
+\\vmware-host\Shared Folders\w\Labirintus\Labirintus\obj\x86\Debug\Labirintus.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\w\Labirintus\Labirintus\obj\x86\Debug\Labirintus.exe
+\\vmware-host\Shared Folders\w\Labirintus\Labirintus\obj\x86\Debug\Labirintus.pdb
+C:\Users\Erendis Near\Desktop\progketto\Labirintus\Labirintus\bin\Debug\Labirintus.exe
+C:\Users\Erendis Near\Desktop\progketto\Labirintus\Labirintus\bin\Debug\Labirintus.pdb
+C:\Users\Erendis Near\Desktop\progketto\Labirintus\Labirintus\obj\x86\Debug\Labirintus.exe
+C:\Users\Erendis Near\Desktop\progketto\Labirintus\Labirintus\obj\x86\Debug\Labirintus.pdb
