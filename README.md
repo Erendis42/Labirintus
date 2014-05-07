@@ -12,4 +12,4 @@ you'll find an .exe in "Labirintus/bin/Release" folder. have fun!
 
 new in 2.0:
 
-auto genereated maze
+auto generated maze
