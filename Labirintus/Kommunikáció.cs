@@ -57,7 +57,6 @@ namespace Labirintus
         /// <param name="y">A játékos Y koordinátája</param>
         /// <param name="k">A játékost megjelenítő karakter (@)</param>
         /// <param name="cs">A játékmezőn még meglévő csillagok száma</param>
-        /// <param name="pszám">Pálya száma</param>
         /// <param name="l">Lépések száma</param>
         public static void Kiír(char[,] p, int x, int y, char k, int cs, int l)
         {
