@@ -10,6 +10,6 @@ you should learn our language anyway because it's nice and hard
 
 you'll find an .exe in "Labirintus/bin/Release" folder. have fun!
 
-TODO:
+new in 2.0:
 
-http://mazeworks.com/mazegen/index.htm
+auto genereated maze
