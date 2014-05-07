@@ -14,6 +14,7 @@ namespace Labirintus
             catch { játék = new Játék(25); }
             játék.Start();
             Kommunikáció.Vége();
+            Console.ReadLine();
         }
     }
 }

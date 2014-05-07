@@ -59,7 +59,7 @@ namespace Labirintus
         /// <param name="cs">A játékmezőn még meglévő csillagok száma</param>
         /// <param name="pszám">Pálya száma</param>
         /// <param name="l">Lépések száma</param>
-        public static void Kiír(char[,] p, int x, int y, char k, int cs, int pszám, int l)
+        public static void Kiír(char[,] p, int x, int y, char k, int cs, int l)
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.DarkRed;
@@ -84,10 +84,6 @@ namespace Labirintus
                 }
                 Console.WriteLine();
             }
-            Console.ForegroundColor = ConsoleColor.Gray;
-            Console.Write("Pálya száma: ");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine(pszám);
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.Write("Csillagok száma: ");
             Console.ForegroundColor = ConsoleColor.White;
